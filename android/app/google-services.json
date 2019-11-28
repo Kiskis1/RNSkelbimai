@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802942101064",
+    "firebase_url": "https://trecias-76cc0.firebaseio.com",
+    "project_id": "trecias-76cc0",
+    "storage_bucket": "trecias-76cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802942101064:android:287f8d5fe3a4524a9c5a7d",
+        "android_client_info": {
+          "package_name": "com.skelbimai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802942101064-6roriqd37q3es70pm61bik3p2knnojsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_6xSRvcegQlhTCrQOEliP0IwZn9YyQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802942101064-6roriqd37q3es70pm61bik3p2knnojsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

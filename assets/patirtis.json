@@ -1,0 +1,86 @@
+{
+  "informacija": [
+    {
+      "key": "developer",
+      "vardas": "Laimonas",
+      "pavarde": "Dabužinskas",
+      "gimimodiena": "1998-08-19",
+      "adresas": "Gerosios Vilties 5a-68",
+      "telefonas": 860289488,
+      "email": "laimiscl@gmail.com",
+      "github": "https://github.com/Kiskis1"
+    }
+  ],
+  "patirtis": [
+    {
+      "index": 1,
+      "name": "Valstybinė ligonių kasa",
+      "time": "2018-07:2018-08",
+      "pareigos": "Vyriausiasis specialistas",
+      "firstName": "Saulius",
+      "lastName": "Štarolis",
+      "email": "saulius.starolis@vlk.lt",
+      "comment": "none"
+    },
+    {
+      "index": 2,
+      "name": "random",
+      "time": "2019-08:2019-10",
+      "pareigos": "kažkokios",
+      "firstName": "Petras",
+      "lastName": "Petraitis",
+      "email": "petras@pastas.lt",
+      "comment": "Nedirbęs kitur"
+    },
+    {
+      "index": 3,
+      "name": "nežinau",
+      "time": "2019-10:",
+      "pareigos": "Profesionalus runescape geimeris",
+      "firstName": "Mykolas",
+      "lastName": "Mykoliukas",
+      "email": "tavarish@gmail.com",
+      "comment": "pls help me"
+    }
+  ],
+  "gebejimai": [
+    {
+      "index": 1,
+      "type": "Užsienio",
+      "kalba": "Anglu",
+      "lygis": "Itin aukštas",
+      "test": "Testas"
+    },
+    {
+      "index": 2,
+      "type": "Užsienio",
+      "kalba": "Rusų",
+      "lygis": "Žemokas čiut čiut",
+      "test": "Testas"
+    },
+    {
+      "index": 3,
+      "type": "Programavimo",
+      "kalba": "C#",
+      "lygis": "Aukštas"
+    },
+    {
+      "index": 4,
+      "type": "Programavimo",
+      "kalba": "Javascript",
+      "lygis": "Vidutinis"
+    },
+    {
+      "index": 5,
+      "type": "Programavimo",
+      "kalba": "C++",
+      "lygis": "Vidutinis"
+    },
+    {
+      "index": 6,
+      "type": "Programavimo",
+      "kalba": "Ruby",
+      "lygis": "Žemas"
+    }
+  ]
+}
